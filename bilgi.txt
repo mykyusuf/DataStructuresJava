@@ -1,0 +1,10 @@
+Çalıştırırken hata alırsanız sebebi package dan kaynaklıdır.
+
+Doğru bir şekilde çalıştırmak için;
+
+javac *.java -d .
+
+java collection/Collection
+
+
+yaparsanız düzgün bir biçimde çalışacaktır.
